@@ -1,0 +1,13 @@
+D:\Oradea\Facultate Oradea\An 2\Sem 2\Limbaje Formale si Compilatoare\NFS-to-DFSc#\NFStoDFS\NFStoDFS\obj\Debug\netcoreapp3.1\NFStoDFS.csprojAssemblyReference.cache
+D:\Oradea\Facultate Oradea\An 2\Sem 2\Limbaje Formale si Compilatoare\NFS-to-DFSc#\NFStoDFS\NFStoDFS\obj\Debug\netcoreapp3.1\NFStoDFS.AssemblyInfoInputs.cache
+D:\Oradea\Facultate Oradea\An 2\Sem 2\Limbaje Formale si Compilatoare\NFS-to-DFSc#\NFStoDFS\NFStoDFS\obj\Debug\netcoreapp3.1\NFStoDFS.AssemblyInfo.cs
+D:\Oradea\Facultate Oradea\An 2\Sem 2\Limbaje Formale si Compilatoare\NFS-to-DFSc#\NFStoDFS\NFStoDFS\obj\Debug\netcoreapp3.1\NFStoDFS.csproj.CoreCompileInputs.cache
+D:\Oradea\Facultate Oradea\An 2\Sem 2\Limbaje Formale si Compilatoare\NFS-to-DFSc#\NFStoDFS\NFStoDFS\bin\Debug\netcoreapp3.1\NFStoDFS.exe
+D:\Oradea\Facultate Oradea\An 2\Sem 2\Limbaje Formale si Compilatoare\NFS-to-DFSc#\NFStoDFS\NFStoDFS\bin\Debug\netcoreapp3.1\NFStoDFS.deps.json
+D:\Oradea\Facultate Oradea\An 2\Sem 2\Limbaje Formale si Compilatoare\NFS-to-DFSc#\NFStoDFS\NFStoDFS\bin\Debug\netcoreapp3.1\NFStoDFS.runtimeconfig.json
+D:\Oradea\Facultate Oradea\An 2\Sem 2\Limbaje Formale si Compilatoare\NFS-to-DFSc#\NFStoDFS\NFStoDFS\bin\Debug\netcoreapp3.1\NFStoDFS.runtimeconfig.dev.json
+D:\Oradea\Facultate Oradea\An 2\Sem 2\Limbaje Formale si Compilatoare\NFS-to-DFSc#\NFStoDFS\NFStoDFS\bin\Debug\netcoreapp3.1\NFStoDFS.dll
+D:\Oradea\Facultate Oradea\An 2\Sem 2\Limbaje Formale si Compilatoare\NFS-to-DFSc#\NFStoDFS\NFStoDFS\bin\Debug\netcoreapp3.1\NFStoDFS.pdb
+D:\Oradea\Facultate Oradea\An 2\Sem 2\Limbaje Formale si Compilatoare\NFS-to-DFSc#\NFStoDFS\NFStoDFS\obj\Debug\netcoreapp3.1\NFStoDFS.dll
+D:\Oradea\Facultate Oradea\An 2\Sem 2\Limbaje Formale si Compilatoare\NFS-to-DFSc#\NFStoDFS\NFStoDFS\obj\Debug\netcoreapp3.1\NFStoDFS.pdb
+D:\Oradea\Facultate Oradea\An 2\Sem 2\Limbaje Formale si Compilatoare\NFS-to-DFSc#\NFStoDFS\NFStoDFS\obj\Debug\netcoreapp3.1\NFStoDFS.genruntimeconfig.cache

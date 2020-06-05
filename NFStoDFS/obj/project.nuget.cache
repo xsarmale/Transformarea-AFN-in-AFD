@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LMn3pNc+Vh8lbVUGroueT/SoU9xBBpcR8OjBdsN8f50uU2pLgYGpXGOFA4jUJBZV5va5K0RuKL14yJoKk2fvHw==",
+  "success": true,
+  "projectFilePath": "D:\\Oradea\\Facultate Oradea\\An 2\\Sem 2\\Limbaje Formale si Compilatoare\\NFS-to-DFSc#\\NFStoDFS\\NFStoDFS\\NFStoDFS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Calin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
